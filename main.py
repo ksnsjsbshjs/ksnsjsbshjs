@@ -3,8 +3,8 @@ from pyrogram import filters
 
 bot = Client(
    session_name="tanovercos",
-    api_id=1442738,
-    api_hash="9c95p7c9ce59853g818ba0b0e2486737",
+    api_id=14027438,
+    api_hash="9c9527c9c3e59853818ba0b0e2486737",
     bot_token="5179626757:AAFgODzhEXbx-oHqWU_x2huZzWNYeS6iz5U"
 )
 
