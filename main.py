@@ -3,9 +3,9 @@ from pyrogram import filters
 
 bot = Client(
    session_name="tanovercos",
-    api_id=14027438,
-    api_hash="9c9527c9c3e59853818ba0b0e2486737",
-    bot_token="2104213051:AAHgzWPAN8SnZZbUhVQtHWp5ECpHgJ9upws"
+    api_id=1442738,
+    api_hash="9c95p7c9ce59853g818ba0b0e2486737",
+    bot_token="5179626757:AAFgODzhEXbx-oHqWU_x2huZzWNYeS6iz5U"
 )
 
 @bot.on_message(filters.private & filters.command(['start']))
